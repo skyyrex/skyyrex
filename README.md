@@ -1,9 +1,5 @@
 # Hey, ich bin Skyyrex
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css&perline=6" />
-</p>
-
 ---
 
 ## 🛡️ Projekte & Rollen
@@ -17,5 +13,10 @@
 
 - ⚙️ **Fokus:** Bug Hunting, GitHub Management & Support/Admin
 - 🧠 **Am Lernen:** Python, Java, Kotlin, JavaScript, HTML & CSS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css&perline=6" />
+</p>
+
 
 ---
