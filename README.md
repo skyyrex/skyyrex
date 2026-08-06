@@ -4,14 +4,16 @@
 
 ## 🛡️ Projekte & Rollen
 
-* ☁️ **AirClient / Zaheer** – GitHub "Leiter", Admin & Bug Hunter
-* ⚡ **NoRiskClient** – Ehemaliger Bug Hunter
+* ☁️ **AirClient/Zaheer / AirCord** - GitHub "Leiter", Admin & Bug Hunter
+* ⚡ **NoRiskClient** - Ehemaliger Bug Hunter
+* 🦦 **OtterClient** - Mein eigener Minecraft Client/Mod
+* 🌸 **hykaika.net** - Helper and inoffizieller Builder (ich kann absolut nicht bauen :))
 
 ---
 
 ## 💻 "Skills"
 
-- ⚙️ **Fokus:** Bug Hunting, GitHub Management & Support/Admin
+- ⚙️ **Fokus:** Bug Hunting, GitHub Management & Support/Admin, und später coden
 - 🧠 **Am Lernen:** Python, Java, Kotlin, JavaScript, HTML & CSS
 
 <p align="left">
