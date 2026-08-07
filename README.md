@@ -29,8 +29,6 @@
 
 ---
 
----
-
 ## 🖥️ Operating Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=apple,windows&perline=8" />
