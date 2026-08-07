@@ -23,7 +23,7 @@
 ---
 
 ## 🖥️ Operating Systems
-![Operating Systems](https://skillicons.dev/icons?i=mac,windows)
+![Operating Systems](https://skillicons.dev/icons?i=windows,macos)
 
 ---
 
