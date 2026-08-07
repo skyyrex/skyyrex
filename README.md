@@ -11,13 +11,17 @@
 
 ---
 
-## 💻 "Skills"
+## 💻 "Skills" & Tools, IDEs
 
 - ⚙️ **Fokus:** Bug Hunting, GitHub Management, Support/Admin, und später coden
 - 🧠 **Am Lernen:** Python, Java, Kotlin, JavaScript, HTML & CSS
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css&perline=6" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,gradle,maven,cloudflare,obsidian,&perline=6" />
 </p>
 
 ---
