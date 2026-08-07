@@ -39,7 +39,9 @@
 ## 🚀 Socials
   
 <a href="https://youtube.com/@skyyrexmc"><img src="https://cdn.simpleicons.org/youtube" height="40"></a>
+
 <a href="https://twitch.tv/skyyrexmc"><img src="https://cdn.simpleicons.org/twitch" height="40"></a>
+
 <a href="https://discord.gg/eNWYYEdjwJ"><img src="https://cdn.simpleicons.org/discord" height="40"></a>
 
 ---
