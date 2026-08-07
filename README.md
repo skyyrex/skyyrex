@@ -16,7 +16,6 @@
 - ⚙️ **Fokus:** Bug Hunting, GitHub Management, Support/Admin, und später coden
 - 🧠 **Am Lernen:** Python, Java, Kotlin, JavaScript, HTML & CSS
 
-<br />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css&perline=6" />
