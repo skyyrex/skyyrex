@@ -20,10 +20,11 @@
   <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css&perline=6" />
 </p>
 
+
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,gradle,maven,cloudflare,obsidian,&perline=6" />
 </p>
-
 ---
 
 ## 🖥️ Operating Systems
