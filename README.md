@@ -23,7 +23,9 @@
 ---
 
 ## 🖥️ Operating Systems
-![Operating Systems](https://skillicons.dev/icons?i=windows,macos)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css,apple,windows&perline=8" />
+</p>
 
 ---
 
