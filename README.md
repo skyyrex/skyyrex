@@ -22,6 +22,11 @@
 
 ---
 
+## 🖥️ Operating Systems
+![Operating Systems](https://skillicons.dev/icons?i=mac,windows)
+
+---
+
 ## 🚀 Socials
   
 <a href="https://youtube.com/@skyyrexmc"><img src="https://cdn.simpleicons.org/youtube" height="40"></a>
