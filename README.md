@@ -14,6 +14,7 @@
 ## 💻 Skills & Tools
 
 - ⚙️ **Fokus:** Bug Hunting, GitHub Management, Support/Admin, und später coden
+
 - 🧠 **Am Lernen:** Python, Java, Kotlin, JavaScript, HTML & CSS
 
 
