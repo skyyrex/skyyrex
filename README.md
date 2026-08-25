@@ -24,7 +24,7 @@
 
 **Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,gradle,maven,cloudflare,obsidian&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,gradle,maven,cloudflare,obsidian,brave&perline=6" />
 </p>
 
 ---
