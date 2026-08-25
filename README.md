@@ -31,7 +31,9 @@
 
 ## 🖥️ Operating Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,apple,linux,arch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=linux" /> / <img src="https://skillicons.dev/icons?i=arch" />
 </p>
 
 ---
