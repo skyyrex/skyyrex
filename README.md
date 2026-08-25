@@ -32,7 +32,7 @@
 ## 🖥️ Operating Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,apple,linux,arch" align="middle" />
-  <sub style="font-size: 14px;">(arch = cachyos)</sub>
+  <sub>(arch = cachyos)</sub>
 </p>
 
 ---
