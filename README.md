@@ -22,9 +22,9 @@
   <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css&perline=6" />
 </p>
 
-## 🛠️ Tools
+**Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,gradle,maven,cloudflare,obsidian,brave&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,gradle,maven,cloudflare,obsidian,discord,bots,github,&perline=7" />
 </p>
 
 ---
