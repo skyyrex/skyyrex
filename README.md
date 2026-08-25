@@ -30,10 +30,16 @@
 ---
 
 ## 🖥️ Operating Systems
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,apple,linux,arch&perline=8" style="vertical-align: middle;" />
-  <span style="vertical-align: middle;">(arch = cachyos)</span>
-</p>
+<table>
+  <tr>
+    <td valign="middle" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=windows,apple,linux,arch&perline=8" />
+    </td>
+    <td valign="middle" style="border: none;">
+      (arch = cachyos)
+    </td>
+  </tr>
+</table>
 
 ---
 
