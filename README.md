@@ -7,7 +7,7 @@
 * ☁️ **AirClient/Zaheer | AirCord** - GitHub "Leiter" & Admin     [@AirCord](https://dsc.gg/aair)
 * ⚡ **NoRiskClient** - Ehemaliger Bug Hunter / Supporter      [@NoRiskClient](https://norisk.gg)
 * 🦦 **OtterClient** - Mein eigener Minecraft Client (Mod)      [@OtterClient](https://github.com/otterclient-dev)
-* 🌸 **hykaika.net** - Helper and inoffizieller Builder (ich kann absolut nicht bauen :D)      [@hykaika.net](https://hykaika.net)
+* 🌸 **hykaika.net** - (Lead)Helper und inoffizieller Builder (ich kann absolut nicht bauen :D)      [@hykaika.net](https://hykaika.net)
 
 ---
 
