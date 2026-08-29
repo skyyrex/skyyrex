@@ -17,7 +17,7 @@
 
 - 🧠 **Am Lernen:** Python, Java, Kotlin, JavaScript, HTML & CSS
 
-**Sprachen die ich lernen will**
+**Am lernen:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,kotlin,js,html,css&perline=6" />
 </p>
