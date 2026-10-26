@@ -4,10 +4,10 @@
 
 ## 🛡️ Projekte & Rollen
 
-* ☁️ **AirClient/Zaheer | AirCord** - GitHub "Leiter" & Admin     [@AirCord](https://dsc.gg/aair)
+* ☁️ **AirClient/Zaheer | AirCord** - Ehemaliger GitHub "Leiter" & Admin     [@AirCord](https://dsc.gg/aair)
 * ⚡ **NoRiskClient** - Ehemaliger Bug Hunter / Supporter      [@NoRiskClient](https://norisk.gg)
 * 🦦 **OtterClient** - Mein eigener Minecraft Client (Mod)      [@OtterClient](https://github.com/otterclient-dev)
-* 🌸 **hykaika.net** - (Lead)Helper und inoffizieller Builder (ich kann absolut nicht bauen :D)      [@hykaika.net](https://hykaika.net)
+* 🌸 **hykaika.net** - Ehemaliger (Lead)Helper    [@hykaika.net](https://hykaika.net)
 
 ---
 
